@@ -2,3 +2,4 @@
  b=20
  c=a+b
  print("addition", c)
+ print(a)
