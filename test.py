@@ -3,3 +3,4 @@
  c=a+b
  print("addition", c)
  print(a)
+ print(b)
